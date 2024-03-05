@@ -536,7 +536,7 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
 
 }
 .subscribe-input::placeholder{
-        color #ffffff;
+        color: #ffffff;
 }
 .subscribe-button{
         display: flex;
@@ -559,7 +559,7 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
 }
 .subscribe-icon{
         margin-left: 16px;
-        
+
 }
 
 
@@ -710,7 +710,9 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
         letter-spacing: 0.04em;
         color: #8e8f99;
 }
-
+.review-form-field-wrapper-comment{
+        margin-bottom: 16px;
+}
 .review-form-own-checkbox{
         display: inline-flex;
         justify-content: center;
